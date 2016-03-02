@@ -15,4 +15,4 @@ Additionally, you will find a couple of files where the SMART/PFAM annotation in
   
   domain_analysis.ods:  similar to previous file but in libreoffice spreadsheet format
   
-Any additional request at:  abenitez@iata.csic.es
+Any additional request at:  abenitez@iata.csic.es.
