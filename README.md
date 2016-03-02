@@ -3,7 +3,7 @@ pangenome and domain annotation of pseudomonas aeruginosa (Mosquera-Rendon et al
 
 The information stored in this repository is freely available!
 
-When you decompress the pseudomonas_pangenome.tar.gz file you will find two major folders named:
+When you uncompress the pseudomonas_pangenome.tar.gz file you will find two major folders named:
 
   /pangenome  : containing the entire set of single fasta sequences characterized to be the P. aeruginosa pangenome. They are                 called in numeric and consecutive manner (i.e. 1.fasta, 2.fasta,...)
   
